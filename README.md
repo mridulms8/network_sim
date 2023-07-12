@@ -1,8 +1,7 @@
 # network_sim
 # Network Simulator using CPP
 
-This project is a network simulator implemented in C++. It provides a simulation of various layers of a computer network, including the Physical Layer, Data Link Layer, Network Layer, and DNS Protocol. The simulator allows users to create end devices, hubs, bridges, switches, and routers, and simulate the communication and functionality of these network components.
-The program is interactive and easy to use.
+This project is a network simulator implemented in C++. It provides a simulation of various layers of a computer network, including the Physical Layer, Data Link Layer, Network Layer, and DNS Protocol. The simulator allows users to create end devices, hubs, bridges, switches, and routers, and simulate the communication and functionality of these network components. The program is interactive and easy to use.
 
 ## Features
 
